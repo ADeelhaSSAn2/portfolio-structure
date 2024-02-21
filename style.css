@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'poppins';
+    src: url(fonts/Poppins-Light.ttf);
+}
+
+@font-face {
+    font-family: 'poppins-bold';
+    src: url(fonts/Poppins-Bold.ttf);
+}
+body{
+    font-family: 'poppins';
+}
+nav {
+    font-size: 25px;
+    font-family: poppins;
+    font-weight: bold;
+    margin-top: 10px;
+}
